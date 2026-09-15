@@ -100,4 +100,4 @@ All data is stored as gzip-compressed [N-Quads](https://www.w3.org/TR/n-quads/) 
 [known-facts/known-types](https://github.com/known-facts/known-types)
 
 ---
-*Parsed on 2026-05-08 by [repolex](https://repolex.ai)*
+*Parsed on 2026-09-15 by [repolex](https://repolex.ai)*
